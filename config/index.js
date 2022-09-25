@@ -100,10 +100,7 @@ const USER_CONFIG = {
         // 在一起的日子
         { keyword: 'love_day', date: '2022-09-23' },
         // 结婚纪念日
-        { keyword: 'marry_day', date: '' },
-      
-   
-      ],
+        { keyword: 'marry_day', date: '2022-09-23' },
       // 课程表相关配置
       // 如果courseSchedule不存在或者为空（null）则认为没有课程
       // 如果courseSchedule是一个数组，则认为不区分单双周，直接填写星期几对应的课表数据即可
